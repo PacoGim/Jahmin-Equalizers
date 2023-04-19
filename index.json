@@ -6,5 +6,9 @@
   {
     "name": "Acoustic",
     "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Acoustic.json"
+  },
+  {
+    "name": "Default",
+    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Default.json"
   }
 ]
