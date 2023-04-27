@@ -1,14 +1,10 @@
 [
   {
-    "name": "Polyvalent",
-    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Polyvalent.json"
+    "name": "Clear Hi-Low",
+    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Clear_Hi_Low.json"
   },
   {
     "name": "Acoustic",
     "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Acoustic.json"
-  },
-  {
-    "name": "Default",
-    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Default.json"
   }
 ]
