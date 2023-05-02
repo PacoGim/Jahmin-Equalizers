@@ -1,22 +1,20 @@
 [
   {
-    "name": "Clear Hi-Low",
+    "url": "https://pastebin.com/raw/dZCDHKhu"
+  },
+  {
     "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Clear_Hi_Low.json"
   },
   {
-    "name": "Acoustic",
     "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Acoustic.json"
   },
   {
-    "name": "Dangerous_Hi",
     "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Hi.json"
   },
   {
-    "name": "Dangerous_Lows",
     "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Lows.json"
   },
   {
-    "name": "Dangerous_Mid",
     "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Mid.json"
   }
 ]
