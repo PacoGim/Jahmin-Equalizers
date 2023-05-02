@@ -1,23 +1,9 @@
 [
-  {
-    "url": "https://gist.githubusercontent.com/PacoGim/a25166823ad0a26d878cb1948a765ae8/raw/a3c54980158a7c505a09fe30da4c169045dbeee8/equalizer_test.json"
-  },
-  {
-    "url": "https://pastebin.com/raw/dZCDHKhu"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Clear_Hi_Low.json"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Acoustic.json"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Hi.json"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Lows.json"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Mid.json"
-  }
+  "https://gist.githubusercontent.com/PacoGim/a25166823ad0a26d878cb1948a765ae8/raw/a3c54980158a7c505a09fe30da4c169045dbeee8/equalizer_test.json",
+  "https://pastebin.com/raw/dZCDHKhu",
+  "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Clear_Hi_Low.json",
+  "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Acoustic.json",
+  "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Hi.json",
+  "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Lows.json",
+  "https://raw.githubusercontent.com/PacoGim/Jahmin-Equalizers/main/Equalizers/Dangerous_Mid.json"
 ]
